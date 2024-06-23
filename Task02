@@ -1,0 +1,44 @@
+
+Name: Dhiraj Shelke
+Company: CODTECH IT SOLUTIONS
+ID:  CT4PP2785
+Domain: Python
+Duration: JUNE 20  2024 to JULY 20 2024
+Mentor: SRAVANI GOUNI
+
+
+
+Description for the Student Grade Manager 
+The Student Grade Manager is a user-friendly application designed to help you efficiently track and manage student grades. 
+This program provides a simple and intuitive graphical user interface (GUI) for adding grades, calculating average grades, and displaying overall performance metrics such as letter grades and GPA.
+
+Features:
+Add Student:
+Enter the student's name and add it to the system.
+Add Grades:
+Enter the subject and the corresponding grade for each assignment or exam.
+Grades can range from 0 to 100.
+Display Grades:
+View all the entered grades for each subject.
+Display Overall Grade:
+Calculate and display the student's average grade.
+Convert the average grade into a GPA.
+Display the corresponding letter grade.
+How to Use:
+Add a Student:
+Start by entering the student's name in the provided text field and click the "Add Student" button.
+Add Grades:
+Enter the subject and grade in their respective fields and click the "Add Grade" button.
+Ensure that the grade is a valid number between 0 and 100.
+View Grades:
+Click the "Display Grades" button to view all the grades entered for the student.
+View Overall Performance:
+Click the "Display Overall Grade" button to see the student's average grade, GPA, and letter grade.
+Technical Details:
+Programming Language: Python
+GUI Framework: Tkinter
+Data Handling: The program uses a class-based approach to store and manage student data.
+Example Usage Scenario:
+Imagine a teacher who wants to keep track of their students' grades throughout the semester. 
+By using the Student Grade Manager, the teacher can easily add grades for each subject, monitor the student's progress, and quickly calculate the overall performance at the end of the term.
+This ensures a streamlined and organized approach to grade management, reducing the likelihood of errors and saving valuable time.
